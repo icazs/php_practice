@@ -1,1 +1,0 @@
-<img title="<?php echo $pictureName ?>"   src="<?php $pictureUrl ?>"/img>
